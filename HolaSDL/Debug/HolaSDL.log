@@ -1,0 +1,12 @@
+﻿  Game.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\crtdbg.h(303): warning C4005: '_malloca': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\malloc.h(122): note: vea la definición anterior de '_malloca'
+c:\users\danie\desktop\sdl_practica3\sdl_practica3\practica 1 new\practica 1 new\holasdl\block.h(41): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\danie\desktop\sdl_practica3\sdl_practica3\practica 1 new\practica 1 new\holasdl\block.h(42): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\danie\desktop\sdl_practica3\sdl_practica3\practica 1 new\practica 1 new\holasdl\wall.h(35): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\danie\desktop\sdl_practica3\sdl_practica3\practica 1 new\practica 1 new\holasdl\game.cpp(68): warning C4101: 'time': variable local sin referencia
+c:\users\danie\desktop\sdl_practica3\sdl_practica3\practica 1 new\practica 1 new\holasdl\game.cpp(546): warning C4150: eliminación de puntero a tipo 'SDL_Window' incompleto; no se ha llamado a un destructor
+  c:\users\danie\desktop\sdl_practica3\sdl_practica3\practica 1 new\practica 1 new\sdl2-2.0.4\include\sdl_video.h(89): note: vea la declaración de 'SDL_Window'
+c:\users\danie\desktop\sdl_practica3\sdl_practica3\practica 1 new\practica 1 new\holasdl\game.cpp(549): warning C4150: eliminación de puntero a tipo 'SDL_Renderer' incompleto; no se ha llamado a un destructor
+  c:\users\danie\desktop\sdl_practica3\sdl_practica3\practica 1 new\practica 1 new\sdl2-2.0.4\include\sdl_render.h(122): note: vea la declaración de 'SDL_Renderer'
+  HolaSDL.vcxproj -> C:\Users\danie\Desktop\SDL_Practica3\SDL_Practica3\Practica 1 NEW\Practica 1 NEW\bin\HolaSDLDebug.exe
